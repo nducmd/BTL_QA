@@ -1,0 +1,47 @@
+version: '3.8'
+services:
+  electro-database:
+    container_name: electro-database-dev
+    image: mysql:8.0
+    restart: unless-stopped
+    cap_add:
+      - SYS_NICE
+    environment:
+      MYSQL_ROOT_PASSWORD: 12345
+      MYSQL_DATABASE: electro
+      LANG: C.UTF-8
+    ports:
+      - 3306:3306
+    networks:
+      - network
+    volumes:
+      - storage:/var/lib/mysql
+      - ./address.sql:/tmp/address.sql 
+    command: --sql_mode="STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION" --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci --general-log=1 --general-log-file=/tmp/mysql-general-log.log
+    healthcheck:
+      # Reference: https://stackoverflow.com/a/74905088
+      test: 'cat /tmp/mysql-general-log.log | grep "Tcp port: 3306"'
+      interval: 5s
+      timeout: 30s
+      retries: 20
+
+  phpmyadmin:
+    container_name: phpmyadmin-electro-dev
+    image: phpmyadmin/phpmyadmin:latest
+    restart: always
+    environment:
+      PMA_HOST: electro-database
+      PMA_PORT: 3306
+      PMA_USER: root
+      PMA_PASSWORD: 12345
+    ports:
+      - 8082:80
+    networks:
+      - network
+
+networks:
+  network:
+    driver: bridge
+
+volumes:
+  storage:
