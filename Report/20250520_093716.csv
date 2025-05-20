@@ -1,0 +1,34 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+dathang,Chrome 136.0.7103.93,,,20-05-2025 09:37:19,20-05-2025 09:38:21,1m - 1.753s,PASSED
+,,,,,,,
+Test Cases/dhpp,Chrome 136.0.7103.93,,,20-05-2025 09:37:20,20-05-2025 09:37:42,22.408s,PASSED
+"openBrowser("""")",Chrome 136.0.7103.93,,,20-05-2025 09:37:20,20-05-2025 09:37:22,2.548s,PASSED
+"navigateToUrl(""http://localhost:3000/signin"")",Chrome 136.0.7103.93,,,20-05-2025 09:37:22,20-05-2025 09:37:24,1.409s,PASSED
+"setText(findTestObject(""Object Repository/dhpp/Page_ng nhp  Electro/input_Tn ti khon_mantine-3ftbk89k9""), ""customer1"")",Chrome 136.0.7103.93,,,20-05-2025 09:37:24,20-05-2025 09:37:25,0.945s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/dhpp/Page_ng nhp  Electro/input_Mt khu_mantine-roww0y0my""), ""HeCM15nHKBI="")",Chrome 136.0.7103.93,,,20-05-2025 09:37:25,20-05-2025 09:37:25,0.403s,PASSED
+"click(findTestObject(""Object Repository/dhpp/Page_ng nhp  Electro/button_ng nhp""))",Chrome 136.0.7103.93,,,20-05-2025 09:37:25,20-05-2025 09:37:26,0.429s,PASSED
+"click(findTestObject(""Object Repository/dhpp/Page_Trang ch  Electro/span_Dell XPS 13 9315""))",Chrome 136.0.7103.93,,,20-05-2025 09:37:26,20-05-2025 09:37:30,4.739s,PASSED
+"click(findTestObject(""Object Repository/dhpp/Page_Dell XPS 13 9315  Electro/button_Chn mua""))",Chrome 136.0.7103.93,,,20-05-2025 09:37:30,20-05-2025 09:37:32,1.298s,PASSED
+"click(findTestObject(""Object Repository/dhpp/Page_Dell XPS 13 9315  Electro/svg_Danh mc sn phm_mantine-gnzaph mantine-G_855041""))",Chrome 136.0.7103.93,,,20-05-2025 09:37:32,20-05-2025 09:37:32,0.833s,PASSED
+"click(findTestObject(""Object Repository/dhpp/Page_Gi hng  Electro/div_PayPal""))",Chrome 136.0.7103.93,,,20-05-2025 09:37:32,20-05-2025 09:37:34,1.232s,PASSED
+"click(findTestObject(""Object Repository/dhpp/Page_Gi hng  Electro/button_t mua_1""))",Chrome 136.0.7103.93,,,20-05-2025 09:37:34,20-05-2025 09:37:39,4.824s,PASSED
+"click(findTestObject(""Object Repository/dhpp/Page_Gi hng  Electro/button_Xc nhn t mua_1""))",Chrome 136.0.7103.93,,,20-05-2025 09:37:39,20-05-2025 09:37:39,0.600s,PASSED
+"verifyElementText(findTestObject(""Object Repository/dhpp/Page_Gi hng  Electro/div_Hon tt thanh ton PayPal bng cch bm nt di""), ""Hoàn tất thanh toán PayPal bằng cách bấm nút dưới"")",Chrome 136.0.7103.93,,,20-05-2025 09:37:39,20-05-2025 09:37:42,2.434s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/dhpp/Page_Gi hng  Electro/div_Hon tt thanh ton PayPal bng cch bm nt di""), 0)",Chrome 136.0.7103.93,,,20-05-2025 09:37:42,20-05-2025 09:37:42,0.268s,PASSED
+closeBrowser(),Chrome 136.0.7103.93,,,20-05-2025 09:37:42,20-05-2025 09:37:42,0.181s,PASSED
+,,,,,,,
+Test Cases/dhtm,Chrome 136.0.7103.93,,,20-05-2025 09:37:42,20-05-2025 09:38:21,38.797s,PASSED
+"openBrowser("""")",Chrome 136.0.7103.93,,,20-05-2025 09:37:42,20-05-2025 09:37:43,0.949s,PASSED
+"navigateToUrl(""http://localhost:3000/signin"")",Chrome 136.0.7103.93,,,20-05-2025 09:37:43,20-05-2025 09:38:05,22.212s,PASSED
+"setText(findTestObject(""Object Repository/dhtm/Page_ng nhp  Electro/input_Tn ti khon_mantine-d58dirb12""), ""customer1"")",Chrome 136.0.7103.93,,,20-05-2025 09:38:05,20-05-2025 09:38:06,0.665s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/dhtm/Page_ng nhp  Electro/input_Mt khu_mantine-ho9yp726f""), ""HeCM15nHKBI="")",Chrome 136.0.7103.93,,,20-05-2025 09:38:06,20-05-2025 09:38:06,0.370s,PASSED
+"click(findTestObject(""Object Repository/dhtm/Page_ng nhp  Electro/button_ng nhp""))",Chrome 136.0.7103.93,,,20-05-2025 09:38:06,20-05-2025 09:38:07,0.334s,PASSED
+"click(findTestObject(""Object Repository/dhtm/Page_Trang ch  Electro/span_Dell XPS 13 9315""))",Chrome 136.0.7103.93,,,20-05-2025 09:38:07,20-05-2025 09:38:11,4.577s,PASSED
+"click(findTestObject(""Object Repository/dhtm/Page_Dell XPS 13 9315  Electro/button_Chn mua""))",Chrome 136.0.7103.93,,,20-05-2025 09:38:11,20-05-2025 09:38:12,1.269s,PASSED
+"click(findTestObject(""Object Repository/dhtm/Page_Gi hng  Electro/svg_Danh mc sn phm_mantine-gnzaph mantine-G_855041""))",Chrome 136.0.7103.93,,,20-05-2025 09:38:12,20-05-2025 09:38:13,0.848s,PASSED
+"click(findTestObject(""Object Repository/dhtm/Page_Gi hng  Electro/svg_Hnh thc thanh ton_mantine-gnzaph mantin_82ec14""))",Chrome 136.0.7103.93,,,20-05-2025 09:38:13,20-05-2025 09:38:15,1.180s,PASSED
+"click(findTestObject(""Object Repository/dhtm/Page_Gi hng  Electro/button_t mua""))",Chrome 136.0.7103.93,,,20-05-2025 09:38:15,20-05-2025 09:38:19,4.578s,PASSED
+"click(findTestObject(""Object Repository/dhtm/Page_Gi hng  Electro/button_Xc nhn t mua""))",Chrome 136.0.7103.93,,,20-05-2025 09:38:19,20-05-2025 09:38:20,0.598s,PASSED
+"verifyElementText(findTestObject(""Object Repository/dhtm/Page_Gi hng  Electro/span_c to""), ""đã được tạo!"")",Chrome 136.0.7103.93,,,20-05-2025 09:38:20,20-05-2025 09:38:20,0.692s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/dhtm/Page_Gi hng  Electro/span_c to""), 0)",Chrome 136.0.7103.93,,,20-05-2025 09:38:20,20-05-2025 09:38:21,0.257s,PASSED
+closeBrowser(),Chrome 136.0.7103.93,,,20-05-2025 09:38:21,20-05-2025 09:38:21,0.169s,PASSED
