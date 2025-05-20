@@ -28,7 +28,7 @@ services:
   phpmyadmin:
     container_name: phpmyadmin-electro-dev
     image: phpmyadmin/phpmyadmin:latest
-    restart: always
+    restart: unless-stopped
     environment:
       PMA_HOST: electro-database
       PMA_PORT: 3306

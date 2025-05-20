@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PayPal</name>
+   <tag></tag>
+   <elementGuidId>7ddfc4b5-44fa-4e8b-9bad-001be3145064</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/div[2]/div[2]/div/div[3]/div/div[2]/div/div[2]/label/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'PayPal' or . = 'PayPal')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;PayPal&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c45a914a-952d-4053-968f-1ee07f3f05ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mantine-Text-root mantine-Group-child mantine-ify7dg</value>
+      <webElementGuid>d5a1ba6a-f221-408d-be8d-0e8950fdddb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PayPal</value>
+      <webElementGuid>2b535732-3f44-44f9-8652-6df1018c5c10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;mantine-Container-root mantine-10nsg3v&quot;]/div[@class=&quot;mantine-Stack-root mantine-1kgx180&quot;]/div[@class=&quot;mantine-Grid-root mantine-nsdj&quot;]/div[@class=&quot;mantine-Col-root mantine-1bqjco4&quot;]/div[@class=&quot;mantine-Stack-root mantine-lfk3cq&quot;]/div[@class=&quot;mantine-Paper-root mantine-Card-root mantine-34okdq&quot;]/div[@class=&quot;mantine-Stack-root mantine-1xft3nm&quot;]/div[@class=&quot;mantine-RadioGroup-root mantine-1m3pqry&quot;]/div[@class=&quot;mantine-Group-root mantine-nqyaac&quot;]/div[@class=&quot;mantine-RadioGroup-radioWrapper mantine-Group-child mantine-s9zdvw&quot;]/label[@class=&quot;mantine-8quzxx mantine-RadioGroup-label&quot;]/div[@class=&quot;mantine-Group-root mantine-bhsibn&quot;]/div[@class=&quot;mantine-Text-root mantine-Group-child mantine-ify7dg&quot;]</value>
+      <webElementGuid>2eb35084-1bef-47ba-9b14-d50fdc7fbd87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/div[2]/div[2]/div/div[3]/div/div[2]/div/div[2]/label/div/div</value>
+      <webElementGuid>bfe72b26-a574-4b21-af1c-015383bc73ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiền mặt'])[1]/following::div[4]</value>
+      <webElementGuid>527b158a-c025-43e0-9399-83cf3dffb7b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hình thức thanh toán'])[1]/following::div[10]</value>
+      <webElementGuid>1d7307ad-c18b-44bc-8976-fed8f9bf2054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tạm tính'])[1]/preceding::div[1]</value>
+      <webElementGuid>504e6971-f9d7-4aca-8e17-e33692ddf7cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thuế (10%)'])[1]/preceding::div[4]</value>
+      <webElementGuid>61a17693-56ab-45ab-b554-843d5411a25e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PayPal']/parent::*</value>
+      <webElementGuid>d9b830a7-72ff-4f2b-a86b-4caf720eb6dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/div/div</value>
+      <webElementGuid>448b9f84-26d7-4d1a-887f-ab56858b11e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PayPal' or . = 'PayPal')]</value>
+      <webElementGuid>385dee06-3bf1-4a5e-b1ea-e5427d64b19d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

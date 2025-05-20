@@ -68,7 +68,7 @@ VALUES ('2022-01-07 17:51:29', '2022-02-24 10:37:18', 'admin2', '$2a$10$eGrjM9Zu
 INSERT INTO user (created_at, updated_at, username, password, fullname, email, phone, gender, address_id, avatar, status)
 VALUES ('2021-11-30 21:45:42', '2022-03-05 17:40:25', 'employee', '$2a$10$eGrjM9Zu/mQOeeqhSgtH7eD1YW7.ECcNz19eIJ7BGTCJrSP7ySgLC', 'Ermin Thuillier', 'ethuillier2@jimdo.com', '0919944305', 'M', 3, null, 1);
 INSERT INTO user (created_at, updated_at, username, password, fullname, email, phone, gender, address_id, avatar, status)
-VALUES ('2022-01-27 04:22:37', '2022-05-04 02:25:59', 'customer1', '$2a$10$eGrjM9Zu/mQOeeqhSgtH7eD1YW7.ECcNz19eIJ7BGTCJrSP7ySgLC', 'Danila Treat', 'dtreat3@nymag.com', '0919944735', 'F', 4, null, 1);
+VALUES ('2022-01-27 04:22:37', '2022-05-04 02:25:59', 'customer1', '$2a$10$eGrjM9Zu/mQOeeqhSgtH7eD1YW7.ECcNz19eIJ7BGTCJrSP7ySgLC', 'Nguyen Ha Thuong', 'mingdedev@gmail.com', '0912666888', 'F', 4, null, 1);
 INSERT INTO user (created_at, updated_at, username, password, fullname, email, phone, gender, address_id, avatar, status)
 VALUES ('2022-03-27 11:16:32', '2021-10-03 12:04:10', 'customer2', '$2a$10$eGrjM9Zu/mQOeeqhSgtH7eD1YW7.ECcNz19eIJ7BGTCJrSP7ySgLC', 'Tanya Korting', 'tkorting4@livejournal.com', '0919944735', 'F', 5, null, 1);
 
@@ -246,7 +246,7 @@ VALUES ('2022-06-05 12:40:37', '2022-04-04 01:57:04', 'Cruickshank-VonRueden', '
 INSERT INTO brand (created_at, updated_at, name, code, description, status)
 VALUES ('2021-06-18 10:09:09', '2022-03-30 13:45:08', 'Schowalter, Hartmann and Kihn', '4994', 'Reduction anal prolapse', 3);
 INSERT INTO brand (created_at, updated_at, name, code, description, status)
-VALUES ('2021-12-06 05:08:25', '2021-12-22 11:02:07', 'Lehner-O''Hara', '8884', 'Muscle thermography', 1);
+VALUES ('2021-12-06 05:08:25', '2021-12-22 11:02:07', 'Dell', '8884', 'Muscle thermography', 1);
 INSERT INTO brand (created_at, updated_at, name, code, description, status)
 VALUES ('2022-02-09 20:12:46', '2021-12-21 12:10:28', 'Kohler-Ratke', '3941', 'Postop vasc op hem contr', 3);
 INSERT INTO brand (created_at, updated_at, name, code, description, status)
@@ -350,7 +350,7 @@ VALUES ('2022-05-01 13:27:06', '2022-02-02 16:18:00', 'CPU', 'cpu', null, 1);
 
 -- product TABLE: 101 records
 INSERT INTO product (id, created_at, updated_at, created_by, updated_by, name, code, slug, short_description, description, status, category_id, brand_id, supplier_id, unit_id, specifications, properties, weight, guarantee_id)
-VALUES (1, '2022-06-10 11:43:15', '2021-06-29 10:23:48', null, null, 'Dell XPS 13 9315', '0003-1967', 'ealdus0', 'Pellentesque ultrices mattis odio. Donec vitae nisi.', 'Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.', 1, 1, 3, 5, 2, '{
+VALUES (1, '2022-06-10 11:43:15', '2021-06-29 10:23:48', null, null, 'Dell XPS 13 9315', '0003-1967', 'ealdus0', 'Laptop Dell XPS 13 9315 ra mắt năm 2022 nổi bật với thiết kế mỏng nhẹ và cấu hình vô cùng mạnh mẽ.', 'Laptop Dell XPS 13 9315 ra mắt năm 2022 nổi bật với thiết kế mỏng nhẹ và cấu hình vô cùng mạnh mẽ.', 1, 1, 3, 5, 2, '{
   "content": [
     {
       "id": 1,
@@ -2105,7 +2105,7 @@ VALUES ('2021-10-03 21:16:01', '2021-11-18 00:55:52', 4, 1, 1);
 
 -- review TABLE: 1 records
 INSERT INTO review (created_at, updated_at, user_id, product_id, rating_score, content, status)
-VALUES ('2021-10-03 21:16:01', '2021-11-18 00:55:52', 4, 1, 4, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere felis sed justo finibus, eget maximus diam rhoncus. Integer posuere tempor magna, ut dictum massa suscipit vel. Sed quis placerat neque. Etiam urna sapien, accumsan nec nulla in, condimentum venenatis ex.', 2);
+VALUES ('2021-10-03 21:16:01', '2021-11-18 00:55:52', 4, 1, 4, 'Tuyệt quá shop ơi sản phẩm y quảng cáo ngoài mong đợi. Đây là lần đầu tiên tôi mạo hiểm mua trên mạng khi nhìn thấy shop giới thiệu đã có niềm tin và quyết định không chần chừ vì hồi nào giờ chỉ đến cửa hàng mua trực tiếp thôi. Cảm ơn shop nhiều lắm hẹn gặp lại lần sau', 2);
 
 -- cart TABLE: 1 records
 INSERT INTO cart (created_at, updated_at, user_id, status)
@@ -2147,7 +2147,7 @@ VALUES ('2023-03-08 02:19:54', '2023-03-08 02:19:54', 4, 'SUCCESS_ORDER', 988, '
 
 -- promotion TABLE: 1 records
 INSERT INTO promotion (created_at, updated_at, name, start_date, end_date, percent, status)
-VALUES ('2023-03-08 11:14:35', '2023-03-08 11:14:35', 'Khuyến mãi tháng 3', '2023-03-08 00:00:00', '2023-03-19 00:00:00', 10, 1);
+VALUES ('2023-03-08 11:14:35', '2025-03-08 11:14:35', 'Khuyến mãi tháng 3', '2025-03-08 00:00:00', '2026-03-19 00:00:00', 10, 1);
 
 -- promotion_product TABLE: 1 records
 INSERT INTO promotion_product (promotion_id, product_id)

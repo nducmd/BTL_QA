@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Hnh thc thanh ton_mantine-gnzaph mantin_82ec14</name>
+   <tag></tag>
+   <elementGuidId>5320a999-ca4a-410a-afad-652e6c2bb239</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.mantine-8quzxx.mantine-RadioGroup-label > div.mantine-Group-root.mantine-bhsibn > svg.mantine-gnzaph.mantine-Group-child</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Hình thức thanh toán'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;Tiền mặt&quot;i >> internal:role=img</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>89bee9db-ed6c-48f3-89ba-8318633018db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>b76e20ef-8296-4ce9-868e-9faa92a0d758</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mantine-gnzaph mantine-Group-child</value>
+      <webElementGuid>ce757b2e-b079-4926-9e29-c75b6afe7586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>a23d5d08-1b29-4b3d-9715-ee9d5c8172a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>4eba9a1c-d23e-4891-b893-e7004f02a088</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>27c50c06-a95e-484a-867d-64f40bfd93f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>2d7e084a-15d5-4a03-9009-43083b8a090f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>a989c621-eee0-4562-8cd4-2f59c6e694d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>0f587f63-eb3f-4d6b-bff7-64b48fe54b8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linecap</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>72a9c681-667f-4a50-8996-068d73c2c489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linejoin</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>53400b7b-cab1-48bb-9c49-1682a261e619</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;mantine-Container-root mantine-10nsg3v&quot;]/div[@class=&quot;mantine-Stack-root mantine-1kgx180&quot;]/div[@class=&quot;mantine-Grid-root mantine-nsdj&quot;]/div[@class=&quot;mantine-Col-root mantine-1bqjco4&quot;]/div[@class=&quot;mantine-Stack-root mantine-lfk3cq&quot;]/div[@class=&quot;mantine-Paper-root mantine-Card-root mantine-34okdq&quot;]/div[@class=&quot;mantine-Stack-root mantine-1xft3nm&quot;]/div[@class=&quot;mantine-RadioGroup-root mantine-1m3pqry&quot;]/div[@class=&quot;mantine-Group-root mantine-nqyaac&quot;]/div[@class=&quot;mantine-RadioGroup-radioWrapper mantine-Group-child mantine-s9zdvw&quot;]/label[@class=&quot;mantine-8quzxx mantine-RadioGroup-label&quot;]/div[@class=&quot;mantine-Group-root mantine-bhsibn&quot;]/svg[@class=&quot;mantine-gnzaph mantine-Group-child&quot;]</value>
+      <webElementGuid>a7e40922-749a-4fe9-9f94-37d188902518</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hình thức thanh toán'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>3948349a-a8ac-46b9-8695-30ececf51337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hình thức giao hàng'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>9e6308f5-9232-4fb3-8849-69d4b3cbda3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiền mặt'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>ea3ea852-12ba-4366-8567-99b42cfe5be4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PayPal'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>56d205d2-8d03-4493-96e1-5d005ea90afe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

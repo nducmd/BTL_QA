@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ng</name>
+   <tag></tag>
+   <elementGuidId>2b350846-b225-4a56-ab52-48dd51970ad5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mantine-Button-default.mantine-Button-root.mantine-1buwzwa > div.mantine-3xbgk5.mantine-Button-inner > span.mantine-qo1k2.mantine-Button-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mantine-fsubtcxzi-body']/div/div/button/div/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Đóng' or . = 'Đóng')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Đóng&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>db4ddbeb-7dc3-4da5-8a1e-f9c36f7d0d22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mantine-qo1k2 mantine-Button-label</value>
+      <webElementGuid>93058d06-0fd9-48dc-bfd8-9688e4d6b7b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đóng</value>
+      <webElementGuid>1f4772a7-5a5f-4078-b5cb-7a6f7c588ac6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mantine-fsubtcxzi-body&quot;)/div[@class=&quot;mantine-Stack-root mantine-1ufc0vz&quot;]/div[@class=&quot;mantine-Stack-root mantine-8ylo13&quot;]/button[@class=&quot;mantine-Button-default mantine-Button-root mantine-1buwzwa&quot;]/div[@class=&quot;mantine-3xbgk5 mantine-Button-inner&quot;]/span[@class=&quot;mantine-qo1k2 mantine-Button-label&quot;]</value>
+      <webElementGuid>44dd0a00-ea5c-44bc-83cb-8076919c55dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mantine-fsubtcxzi-body']/div/div/button/div/span</value>
+      <webElementGuid>08c25287-c27b-4b1a-ad53-2f62f10c398a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='đã được tạo!'])[1]/following::span[1]</value>
+      <webElementGuid>ae1f7e92-f83e-49d5-87e1-13a61ce341c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VCMURILZOPCQ'])[1]/following::span[2]</value>
+      <webElementGuid>62e9888d-0778-4eeb-8bdf-090b44c9cf4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client'])[1]/preceding::span[1]</value>
+      <webElementGuid>e3c0a092-b652-4b04-b40d-5e0a5c3991a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/preceding::span[1]</value>
+      <webElementGuid>79d6cd88-04de-482d-a2d9-b8b00f31c08c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đóng']/parent::*</value>
+      <webElementGuid>fe8ec503-393b-4eb1-9bcd-d72606b40061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/div/button/div/span</value>
+      <webElementGuid>d57b20c3-3e3e-4863-a8f3-77a864328219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Đóng' or . = 'Đóng')]</value>
+      <webElementGuid>d7e3e5bf-9ba9-45b4-be6e-1b37a8885e09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -71,6 +71,7 @@ public class ClientCartController {
         }
 
         // Validate Variant Inventory
+        // tính số lượng hàng tồn kho có thể bán được (canBeSold) của một CartVariant cụ thể, dựa trên dữ liệu tồn kho lấy từ docketVariantRepository
         for (CartVariant cartVariant : cartBeforeSave.getCartVariants()) {
             int inventory = InventoryUtils
                     .calculateInventoryIndices(docketVariantRepository.findByVariantId(cartVariant.getCartVariantKey().getVariantId()))

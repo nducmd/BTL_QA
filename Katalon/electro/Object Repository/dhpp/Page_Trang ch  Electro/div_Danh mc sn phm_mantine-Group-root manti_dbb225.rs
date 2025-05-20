@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Danh mc sn phm_mantine-Group-root manti_dbb225</name>
+   <tag></tag>
+   <elementGuidId>dddfc2e7-5b27-4a25-9f4f-ecd6c3fced45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mantine-Group-root.mantine-1gqhl8r</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/header/div/div/div/div[2]/div[2]/div/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.mantine-Menu-root > .mantine-Tooltip-root > .mantine-UnstyledButton-root</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cecbef7b-c5de-4315-8417-8f269f1a0fa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mantine-Group-root mantine-1gqhl8r</value>
+      <webElementGuid>79591c14-a0a3-4c2c-902d-45c3647454e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/header[@class=&quot;mantine-1eubo87&quot;]/div[@class=&quot;mantine-Container-root mantine-10nsg3v&quot;]/div[@class=&quot;mantine-Stack-root mantine-1fod3h5&quot;]/div[@class=&quot;mantine-Group-root mantine-rvtoj&quot;]/div[@class=&quot;mantine-Group-root mantine-Group-child mantine-1cighqm&quot;]/div[@class=&quot;mantine-Menu-root mantine-Group-child mantine-1b402bj&quot;]/div[@class=&quot;mantine-Tooltip-root mantine-gc2cx1&quot;]/button[@class=&quot;mantine-UnstyledButton-root mantine-14iebtj&quot;]/div[@class=&quot;mantine-Group-root mantine-1gqhl8r&quot;]</value>
+      <webElementGuid>f9433900-40ac-49d7-a00f-c9632aa526ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/header/div/div/div/div[2]/div[2]/div/button/div</value>
+      <webElementGuid>c02b91c2-fad5-4c8e-80b8-20471f930c33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh mục sản phẩm'])[1]/preceding::div[1]</value>
+      <webElementGuid>fcb24d2e-37dc-44cb-a33c-ba052186feb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sản phẩm mới'])[1]/preceding::div[4]</value>
+      <webElementGuid>78b59b45-a31c-405a-a1ef-ba5adf3bbe57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/button/div</value>
+      <webElementGuid>2da1b75e-10cc-4c31-8002-647d1b209d2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

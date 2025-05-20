@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Chn mua</name>
+   <tag></tag>
+   <elementGuidId>67849899-bc21-4ff5-8e80-997a60be66ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mantine-Button-filled.mantine-Button-root.mantine-Group-child.mantine-19yfojk</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[14]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Chọn mua&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8a0c9980-6f74-4692-adff-d249f46fe73a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mantine-Button-filled mantine-Button-root mantine-Group-child mantine-19yfojk</value>
+      <webElementGuid>d63a82d0-f635-426f-a7c1-0be935c129b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c915a918-1c69-4f17-82ae-dc2d7a72b81d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chọn mua</value>
+      <webElementGuid>fd842d8b-597f-4c0e-b385-7caefbd6f2f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;mantine-Container-root mantine-10nsg3v&quot;]/div[@class=&quot;mantine-Stack-root mantine-1cr6c3e&quot;]/div[@class=&quot;mantine-Paper-root mantine-Card-root mantine-vzndfy&quot;]/div[@class=&quot;mantine-Stack-root mantine-lfk3cq&quot;]/div[@class=&quot;mantine-Grid-root mantine-1xetgn3&quot;]/div[@class=&quot;mantine-Col-root mantine-faax4s&quot;]/div[@class=&quot;mantine-Stack-root mantine-1kgx180&quot;]/div[@class=&quot;mantine-Group-root mantine-ti75e8&quot;]/button[@class=&quot;mantine-Button-filled mantine-Button-root mantine-Group-child mantine-19yfojk&quot;]</value>
+      <webElementGuid>0842ea0b-a950-42d3-a7fb-f283b63f9964</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[14]</value>
+      <webElementGuid>7a2ef3ae-3b6b-479a-8ea2-f1a5bb0ea5d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/div/div/div[2]/div[2]/div/div[6]/button</value>
+      <webElementGuid>781b9ed2-1ac1-4814-9a57-52384a1e4854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::button[1]</value>
+      <webElementGuid>87995c1d-9f29-4c1a-8491-2de11ff2452b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='–'])[1]/following::button[2]</value>
+      <webElementGuid>efd65179-68d5-43a7-895c-4603264eca86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yêu thích'])[1]/preceding::button[1]</value>
+      <webElementGuid>44933eb6-3008-47d5-8d83-137d15e5cff8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>d066e9a2-2ebd-422e-a045-8e456cd574af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Chọn mua' or . = 'Chọn mua')]</value>
+      <webElementGuid>21f15ab7-c86f-48d7-9ae3-4b0738a0f3ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
